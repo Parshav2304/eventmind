@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+.vscode/
+.idea/
+.DS_Store
+.dockerignore
+Dockerfile
+test_key.py
+list_models.py
+submission_details.md
